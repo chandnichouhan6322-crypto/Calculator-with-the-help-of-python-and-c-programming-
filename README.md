@@ -10,7 +10,10 @@ C-Programs/
 │── README.md
 │── 01_Area_perimeter.c
 │── 02_Profit_or_Loss.c
-
+│── 03_leapyear_or not.c
+│── 04 divisible_by_5.c
+│── 05 stu_result_system.c
+      ⚫finding percentage of random stu on         the basis of Roll_no.
 
 ## 🛠 Language
 
