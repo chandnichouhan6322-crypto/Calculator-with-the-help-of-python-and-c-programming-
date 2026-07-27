@@ -12,9 +12,8 @@ C-Programs/
 │── 02_Profit_or_Loss.c
 │── 03_leapyear_or not.c
 │── 04_Divisible_by_5.c
-│── 05_Stu_result_system.c
-      ⚫finding percentage of random stu on         the basis of Roll_no.
-│── 06_calculator.c
+│── 05_calculator.c
+│──06_rock_paper_scissors.c
 
 ## 🛠 Language
 
