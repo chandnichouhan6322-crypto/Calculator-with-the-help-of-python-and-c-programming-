@@ -3,6 +3,18 @@ int main(){
 		float bal=1000;
 		float deposit;
 		float withdraw;
+	    int pin=1233;
+	    int enterpin;
+		printf("enter a pin ");
+		scanf("%d",&enterpin);
+		if(enterpin==pin){
+			printf("unlocked \n END");
+			
+		}
+		else{
+			for(int i=1;i<=3;i++){}
+				printf("locked");
+			}
 		int choice=0;
 		while(choice!=4){
 			printf("-----------ATM----------\n");
