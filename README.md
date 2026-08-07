@@ -17,8 +17,11 @@ C-Programs/
 │──07_ATM.c #my first complex project
     ⚫firstly I am adding feature of choice       where user choose what they want to do
       check balance,deposit,withdraw,exit.
-    ⚫secondly inserting pin and change pin 
-       
+    ⚫secondly inserting pin and change pin
+│──08 star_pattern.c
+    ⚫ 📐
+    
+     
 ## 🛠 Language
 
 - C
